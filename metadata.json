@@ -1,0 +1,8 @@
+
+{
+  "name": "Solopreneur AI Assistant",
+  "description": "Your complete AI partner for business. Engage in real-time voice conversations, get up-to-the-minute answers with Google Search, generate images, analyze data, create marketing content, and manage your schedule—all in one intelligent platform.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
